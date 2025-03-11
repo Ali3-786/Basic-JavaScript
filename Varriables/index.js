@@ -18,3 +18,6 @@ console.log(firstName);
 
 var myFirstVarriableNameJavaScript = "This is Long Varriable Name";
 console.log(myFirstVarriableNameJavaScript);
+
+// var 123myName = "Zain";
+// console.log(123myName);

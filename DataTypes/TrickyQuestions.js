@@ -1,0 +1,10 @@
+console.log(9 - "5");
+console.log("4" + "5");
+console.log("Script" - "Java");
+console.log("JavaScript" + "5");
+console.log(true + false);
+console.log(true - false);
+console.log(true - true);
+console.log(true + true);
+console.log(false + false);
+console.log(false - true);
